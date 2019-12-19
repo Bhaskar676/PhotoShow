@@ -1,5 +1,5 @@
 # PhotoShow
-This is a simple project on laravel to dispaly photos, upload photos to an album and deleting pictures from the album. The front end is based on Foundation framework ( http://foundation.zurb.com/ ).Feel free to add on new features to the project by raising issues and pull requests.
+This is a simple project on laravel to dispaly photos, upload photos to an album and deleting pictures from the album. The front end is based on Foundation framework ( http://foundation.zurb.com/ ).Feel free to add on new features to the project by raising issues and pull requests.test
 
 Installation :
 
